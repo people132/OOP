@@ -5,6 +5,7 @@
 
 using namespace std;
 
+
 // Класс Фильм
 class Film {
 public:
