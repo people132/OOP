@@ -5,7 +5,6 @@
 #include <set>
 #include <limits.h>
 
-
 using namespace std;
 
 // Функция DFS для обхода графа и перечисления всех вершин

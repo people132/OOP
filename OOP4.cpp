@@ -4,7 +4,6 @@
 #include <climits>
 using namespace std;    
 
-
 // Структура узла Декартова дерева
 struct Node {
     int key, priority, size;                 // Ключ, приоритет и размер поддерева

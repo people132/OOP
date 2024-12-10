@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 // Функция для добавления элемента в отсортированный список
 void push(list<char>& lst, const char& element) {
     auto it = lst.begin();
